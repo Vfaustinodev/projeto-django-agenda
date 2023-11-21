@@ -7,7 +7,7 @@ db.sqlite3
 .vscode
 static
 media
-
+utils
 # Backup files #
 *.bak
 
