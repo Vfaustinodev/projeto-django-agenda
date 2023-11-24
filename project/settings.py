@@ -111,7 +111,7 @@ LANGUAGE_CODE = 'pt-br'
 
 TIME_ZONE = 'America/Sao_Paulo'
 
-USE_I18N = False # Pode ficar como Falso enquanto não estamos utilizando serviços de Tradução no WebSite
+USE_I18N = True # Pode ficar como Falso enquanto não estamos utilizando serviços de Tradução no WebSite
 
 USE_TZ = True
 
