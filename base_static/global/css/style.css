@@ -71,6 +71,7 @@ svg {
   color: var(--link-light-color);
   text-decoration: none;
   transition: filter var(--transition-fast) ease-in-out;
+  text-shadow: 5px 5px 4px rgb(99, 3, 3);
 }
 
 .header-link:hover {
@@ -125,10 +126,11 @@ svg {
   font-size: var(--medium-font-size);
   font-weight: bold;
   padding: var(--spacing);
+  text-shadow: 2px 2px 2px black;
 }
 
 .table-row {
-  text-align: left;
+  text-align: center;
   text-overflow: ellipsis;
   transition: background-color var(--transition-fast) ease-in-out;
 }
