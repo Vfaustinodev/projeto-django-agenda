@@ -15,6 +15,7 @@ nginx-https.txt
 nginx-http.txt
 gunicorn.txt
 untitled.txt
+gunicorn-error-log
 
 
 # If you are using PyCharm #
