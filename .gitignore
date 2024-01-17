@@ -11,6 +11,12 @@ utils
 # Backup files #
 *.bak
 project/local_settings.py
+SERVER.md
+nginx-https.txt
+nginx-http.txt
+gunicorn.txt
+untitled.txt
+
 
 # If you are using PyCharm #
 # User-specific stuff
